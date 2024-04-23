@@ -1,0 +1,14 @@
+name yout file: toogle.png
+
+enter file contents here: 
+
+<body>
+  <img src="./nomedoarquivo.png"/>
+</body>
+
+<style>
+  body {
+      margin: 0;
+      padding: 0;
+  }
+</style>
